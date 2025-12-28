@@ -6,7 +6,7 @@ The goal is to identify high-risk customers and enable proactive retention strat
 
 The project emphasizes **actionable insights over model metrics**, aligning with how real-world product and retention teams operate.
 
-
+![Image](https://github.com/user-attachments/assets/b45705e1-3a7f-4d03-bbf0-9e71070416e7)
 
 ## Business Problem
 Customer churn directly impacts recurring revenue.  
