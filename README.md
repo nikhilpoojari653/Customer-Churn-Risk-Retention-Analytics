@@ -4,8 +4,6 @@
 This project analyzes customer churn behavior using engagement, tenure, feature usage, and support interaction data.  
 The goal is to identify high-risk customers and enable proactive retention strategies through business-focused analytics and visualization.
 
-The project emphasizes **actionable insights over model metrics**, aligning with how real-world product and retention teams operate.
-
 ![Image](https://github.com/user-attachments/assets/b45705e1-3a7f-4d03-bbf0-9e71070416e7)
 
 ## Business Problem
