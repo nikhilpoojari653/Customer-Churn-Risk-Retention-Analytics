@@ -1,7 +1,6 @@
 # Customer Churn Risk & Retention Analytics
 ## Project Overview
-This project analyzes customer churn behavior using engagement, tenure, feature usage, and support interaction data.  
-The goal is to identify high-risk customers and enable proactive retention strategies through business-focused analytics and visualization.
+This project analyzes customer churn behavior using engagement, tenure, feature usage, and support interaction data. The goal is to identify high-risk customers and enable proactive retention strategies through business-focused analytics and visualization.
 
 ![Image](https://github.com/user-attachments/assets/b45705e1-3a7f-4d03-bbf0-9e71070416e7)
 
